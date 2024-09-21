@@ -1,3 +1,4 @@
+![logo](https://github.com/jefin3273/jefin3273/blob/main/Blue%20Minimalist%20Game%20Developer%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Jefin John</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 

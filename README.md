@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jefinjohn3273@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PlNyEWm30RkrEvPkuMkhtYLLD18h-zj-/view?usp=sharing](https://drive.google.com/file/d/1PlNyEWm30RkrEvPkuMkhtYLLD18h-zj-/view?usp=sharing)
+- 📄 Know about my experiences [https://portfolio-website-jefin.vercel.app/](https://portfolio-website-jefin.vercel.app/)
 
 - ⚡ Fun fact **I spend more time on sports rather than coding 😉**
 
